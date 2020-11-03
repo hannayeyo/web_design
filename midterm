@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ko">
+ <head>
+    <meta charset="utf-8">
+     <link rel="icon" href="%ED%86%A0%EB%81%BC%EC%94%A8.png">
+     <title>REBOOK</title>
+     <link href="hanna.css" rel="stylesheet" type="text/css">
+ </head>
+   <p class="large">
+   REBOOK 
+   </p>
+ <body>
+   <section>
+    <br><br><br><br><br><br><br><br>
+   <p class="medium">
+    ✔️ 12.15 OPEN</p><br>
+   <p class="medium">
+    ✔️ Open Event
+    </p>
+    <p class="small">• 12.15 --- 12.31
+    <br>
+    • 회원가입 후 책 구매시 중고책 한 권을 선물로 드립니다</p><br>
+    <p class="medium">
+    ✔️ 우리 REBOOK은?</p>
+    <p class="small">
+    • 알고리즘을 통한 취향 저격 책 추천
+    <br>
+    • 더 풍부한 미리보기 서비스
+    <br>
+    • 특별한 생일선물
+    </p>
+     <br><br><br>
+    <p class="plus">더 궁금하신 점이 있으시다면 아래 로고를 클릭해 주세요:)</p>
+   </section>
+   <footer>
+    <center><img src="image/rogo.png" usemap="#sns">
+    <map name="sns">
+    <area shape="rect" coords="0,0,21.5,22" href="https://www.instagram.com/hannayeyo_/" title="인스타그램으로 연결하기" target="_blank">
+    <area shape="rect" coords="21.6,0,43,118" href="https://blog.naver.com/214_hanna" title="블로그로 연결하기" target="_blank">
+    </map></center>   
+    <p>copyright &copy; 2020 Web Design</p>
+   </footer>
+ </body>
+</html>
