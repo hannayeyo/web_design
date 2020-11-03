@@ -1,0 +1,83 @@
+p{
+    font-size: 10px;
+    line-height: 20px;
+}
+
+section{
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    height: 800px;
+}
+
+section{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 5px;
+}
+
+footer{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+
+ul{
+    list-style-type: square;
+}
+
+@font-face{
+    font-family: Consolas;
+    src:url('Consolas.ttf');
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: Arial;
+    src:url('Arial.ttf');
+    font-weight: bolder;
+}
+
+body{
+    font-family: Consolas;
+    background-color: #273c75;
+    background: url(홍보/background.png) no-repeat center;
+    background-size: cover;
+}
+
+.medium{
+    font-family: Arial;
+    font-size: 30px;
+    text-align: left;
+    text-decoration: none;
+    word-spacing: 0.6em;
+    color: white;
+}
+
+.small{
+    font-family: Arial;
+    font-size: medium;
+    text-align: left;
+    word-spacing: 0.2em;
+    color: white;
+}
+
+.large{
+    font-family: Arial;
+    font-size: xxx-large;
+    text-align: center;
+    text-decoration: none;
+    letter-spacing: 0.3em;
+    color: white;
+}
+
+.plus{
+    color: white;
+    
+}
